@@ -8,3 +8,4 @@ Daftar biodata Siswa Dicoding Academy
 - Angkatan 2021
 
 commit 1
+commit 2
