@@ -7,4 +7,3 @@ Daftar biodata Siswa Dicoding Academy
 - Angkatan 2020
 - Angkatan 2021
 
-eldy saae
